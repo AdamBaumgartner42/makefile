@@ -8,4 +8,3 @@ helloWorld : helloworld.s
 
 clean: 
 	rm helloworld
-	rm helloworld.o
