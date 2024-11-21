@@ -2,11 +2,12 @@
 
 Enter these commands into your terminal
 
+### Run makefile which runs the build commands
 $ make
-#### Runs makefile which runs the build commands
 
+### Run helloworld
 $ ./helloworld
-#### Runs helloworld
 
+### This removes the build files
 $ make clean
-#### This removes the build files
+
