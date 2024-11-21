@@ -1,4 +1,4 @@
-# makefile
+# makefile_demo
 
 Enter these commands into your terminal
 
