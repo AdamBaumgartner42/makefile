@@ -3,10 +3,10 @@
 Enter these commands into your terminal
 
 $ make
-Runs makefile which runs the build commands
+#### Runs makefile which runs the build commands
 
 $ ./helloworld
-Runs helloworld
+#### Runs helloworld
 
 $ make clean
-This removes the build files
+#### This removes the build files
